@@ -1,0 +1,14 @@
+{
+    "attributes": [{
+            "trait_type": "Music director",
+            "value": "JavaScript"
+        },
+        {
+            "trait_type": "Albums",
+            "value": "25"
+        }
+    ],
+    "name": "Anirudh Ravichandar",
+    "description": "Rockstar who gives mass albums",
+    "image": "ipfs://QmPToNb33DMebKEFzP6QSdcSCSq6X3wWhXjD3zvGCgFaJK"
+}
